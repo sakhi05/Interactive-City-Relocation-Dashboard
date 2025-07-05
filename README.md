@@ -28,6 +28,6 @@ The **Interactive City Relocation Dashboard** is a dynamic Excel-based tool desi
 - Data visualization and analysis tools native to Excel
 
 ## 📝 About This Project
-This project showcases my ability to design, build, and automate analytical dashboards tailored for business and data analysis. It demonstrates proficiency in Excel, data visualization, and translating complex requirements into actionable insights.
+This project showcases our ability to design, build, and automate analytical dashboards tailored for business and data analysis. It demonstrates proficiency in Excel, data visualization, and translating complex requirements into actionable insights.
 
 ---
